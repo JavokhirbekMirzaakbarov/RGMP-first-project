@@ -1,0 +1,80 @@
+// export const users = [...Array(100).fill("")].map((_, index) => ({
+//   id: `12345${index}`,
+//   name: `John${index}`,
+//   amount: 1.5 * index,
+//   quantity: 10 * index,
+//   total: index * 100.5,
+// }));
+
+export const users = [
+  {
+    id: 124,
+    name: "Justin",
+    amount: 100.7,
+    quantity: 140,
+    total: 16000,
+  },
+  {
+    id: 123,
+    name: "Jack",
+    amount: 123.1,
+    quantity: 100,
+    total: 17600,
+  },
+  {
+    id: 1248,
+    name: "Someone",
+    amount: 1.3,
+    quantity: 3,
+    total: 45,
+  },
+  {
+    id: 78,
+    name: "Alex",
+    amount: 198.1,
+    quantity: 25,
+    total: 1209600,
+  },
+  {
+    id: 768,
+    name: "Ann",
+    amount: 678.0,
+    quantity: 300,
+    total: 678200,
+  },
+  {
+    id: 987,
+    name: "Joey",
+    amount: 120.1,
+    quantity: 200,
+    total: 100000,
+  },
+  {
+    id: 200,
+    name: "Chandler",
+    amount: 67.0,
+    quantity: 34,
+    total: 300000,
+  },
+  {
+    id: 12,
+    name: "Ross Geller",
+    amount: 5768.0,
+    quantity: 200,
+    total: 900000,
+  },
+  {
+    id: 700,
+    name: "Rachek Green",
+    amount: 5000.1,
+    quantity: 210,
+    total: 67820111,
+  },
+  {
+    id: 9030,
+    name: "Phebe Buffay",
+    amount: 5720.0,
+    quantity: 400,
+    total: 45000,
+  },
+];
