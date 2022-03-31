@@ -17,4 +17,14 @@ This is the first project from React Fundamentals mentoring program at EPAM
 
 ### Snapshots
 
-![Login Page](images/logo.png)
+#### Login Page
+
+![Login Page](https://github.com/JavokhirbekMirzaakbarov/RGMP-first-project/blob/main/public/images/login.png)
+
+#### Todos Page
+
+![Todos Page](https://github.com/JavokhirbekMirzaakbarov/RGMP-first-project/blob/main/public/images/todos.png)
+
+#### Customers Page
+
+![Customers Page](https://github.com/JavokhirbekMirzaakbarov/RGMP-first-project/blob/main/public/images/customers.png)
