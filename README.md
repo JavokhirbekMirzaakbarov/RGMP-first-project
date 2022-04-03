@@ -2,6 +2,10 @@
 
 This is the first project from React Fundamentals mentoring program at EPAM
 
+## Deployment
+
+Check out the live demo [here](https://rgmp-first-project.vercel.app/)
+
 ## Features Available
 
 - Login/Logout
